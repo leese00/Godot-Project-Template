@@ -1,14 +1,14 @@
 # Project Name
-
+ Space Shooter
 Context and date
 
 Description
 
 ## Implementation
-Which features you included
+Includes a background for main menu and in the game.
 
 ## References
 
 ## Future Development
 
-## Created by
+## Created by Shaleese Jefferson
